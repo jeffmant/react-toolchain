@@ -18,7 +18,7 @@
   },
   "name": "practice-study",
   "version": "1.0.0",
-  "main": "dist/bundle.js",
+  "main": "dist/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
