@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "author": "",
   "keywords": [],
-  "main": "src/main.js",
   "scripts": {
     "start": "http-server dist",
     "start:dev": "webpack-dev-server --mode development",
