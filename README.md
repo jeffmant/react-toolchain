@@ -1,6 +1,8 @@
 # React Toolchain
 
-A custom toolchain to study, understand and practice what React toolchains and frameworks makes behind of they stages.
+A custom toolchain to study, understand and practice what React toolchains and frameworks makes behind the scenes.
+
+The result is an Hello World page using HTML5, CSS3, Javascript, React. But, the goal is to understand what an app needs to render the pages using Javascript compiler, bundler, server and so on.
 
 
 
